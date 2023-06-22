@@ -49,6 +49,8 @@ exclude = [
     "venv",
 ]
 
+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
+
 [project.urls]
 "Homepage" = "https://github.com/AntonOsika/gpt-engineer"
 "Bug Tracker" = "https://github.com/AntonOsika/gpt-engineer/issues"
